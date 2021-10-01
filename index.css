@@ -1,0 +1,36 @@
+table,
+th,
+td {
+  border: 1px solid black;
+}
+h1 {
+  text-align: center;
+}
+/* }
+.border {
+} */
+/* thead:first-child tr:first-child th:first-child,
+tbody:first-child tr:first-child td:first-child {
+  border-radius: 4px 0 0 0;
+}
+thead:first-child tr:first-child th:first-child,
+tbody:first-child tr:first-child td:first-child {
+  border-radius: 4px 0 0 0;
+} */
+/* .body {
+  max-width: 900px;
+
+  text-align: center;
+} */
+/* .a {
+  color: aqua;
+} */
+/* table,
+hr,
+td {
+  width: auto;
+  border: 1px solid black;
+} */
+/* tr {
+  background-color: green;
+} */
